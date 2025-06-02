@@ -2,7 +2,7 @@
 This project simulates various CPU scheduling algorithms in Java. It allows users to input process data and observe how different scheduling strategies affect process execution order, waiting times, and turnaround times. This tool is designed to demonstrate OS-level process management concepts.
 
 ## 🛠️ Features
-- Supports basic CPU scheduling algorithms (e.g., FCFS, SJF, etc.)
+- Supports CPU scheduling algorithms (e.g., FCFS, SJF, etc.)
 - Calculates and displays:
   - Waiting Time
   - Turnaround Time
